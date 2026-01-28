@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+
+  
+}
+.home{
+      background-image: url(IMG-20251012-WA0036.jpg);
+  background-repeat:no-repeat;
+  background-size: cover;
+background-position: center;
+}
+.section{
+    background-image: url(IMG-20251012-WA0037.jpg);
+     background-repeat:no-repeat;
+  background-size: cover;
+background-position: center;
+
+}
+form input{
+    background-color: transparent;
+    border: 1px solid black;
+    padding: 30px;
+    border-radius: 15;
+}
+
